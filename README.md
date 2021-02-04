@@ -1,1 +1,1 @@
-# gophercises-task
+# go-clean-arch-cli
